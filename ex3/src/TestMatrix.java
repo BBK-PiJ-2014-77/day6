@@ -16,6 +16,7 @@ public class TestMatrix {
         }
 
         System.out.println(TM.toString());
+        Matrix TM2 = new Matrix("[1,2,3,4,5;5,4,3,2,1.]");
 
     }
 }
